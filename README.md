@@ -1,7 +1,6 @@
 ## About me
-I am a Computer Vision Specialist 🤖
-I am interested in AI  || MLOps | CVOps | LLM | ML | DL | RL to assist people with these technologies in order to enhance their quality of life.
-
+I am a Computer Vision Specialist
+I am interested in AI || MLOps | CVOps | LLM | ML | DL | RL
 
 <!--
 **aghamohammadi94/aghamohammadi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
