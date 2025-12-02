@@ -1,5 +1,7 @@
 ## About me
+
 I am a Computer Vision Specialist
+
 I am interested in AI || MLOps | CVOps | LLM | ML | DL | RL
 
 <!--
