@@ -10,7 +10,7 @@ I am an AI/ML enthusiast with a passion for learning and exploring new technolog
 
 
 
-## I know about:
+## I know about
 
 👨🏻‍💻 Machine Learning model deployments
 
