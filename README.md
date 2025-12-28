@@ -11,13 +11,16 @@ I am an AI/ML enthusiast with a passion for learning and exploring new technolog
 ## I know about:
 
 👨🏻‍💻 Machine Learning model deployments
+
 👨🏻‍💻 Deep Learning model deployments
+
 🧑🏽‍💻 and few more.
 
 
 ## 🔗 Contact Information
 
 - 📫 How to reach me: [aghamohammadi1994@gmail.com](mailto:aghamohammadi1994@gmail.com)
+- 
 - ⚡ Fun fact: I adventures, and I am always eager to learn and improve.
 
 
