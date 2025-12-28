@@ -1,15 +1,24 @@
 ## About me
 
-I am a Computer Vision Specialist
+I am MohammadReza AghaMohammadi, a small developer who likes to write C++, Python code.
 
-I am interested in AI || MLOps | CVOps | LLM | ML | DL | RL
+I am a Computer Vision Specialist.
+
+I am interested in AI || ML | DL | RL | DRL | NLP | LLMs | MLOps | CVOps
 
 I am an AI/ML enthusiast with a passion for learning and exploring new technologies. I am constantly seeking opportunities to grow, innovate, and contribute to the field of artificial intelligence and machine learning.
 
+## I know about:
+
+👨🏻‍💻 Machine Learning model deployments
+👨🏻‍💻 Deep Learning model deployments
+🧑🏽‍💻 and few more.
+
+
 ## 🔗 Contact Information
+
 - 📫 How to reach me: [aghamohammadi1994@gmail.com](mailto:aghamohammadi1994@gmail.com)
 - ⚡ Fun fact: I adventures, and I am always eager to learn and improve.
-
 
 
 <!--
@@ -47,4 +56,4 @@ Here are some ideas to get you started:
 ## 💼 Experience
 | Position               | Company           | Employment Type | Duration            | Location                  | Work Setting | Skills            |
 |------------------------|-------------------|-----------------|---------------------|---------------------------|--------------|-------------------|
-| AI Developer Intern    | Hami System Sharif | Internship      | 2025-December-1 - Until Now | Iran              | Full-time    | AI Coding         |
+| AI Developer Intern | Hami System Sharif | Internship | 2025-December-1 - Right Now | Iran | Full-time | AI Coding |
