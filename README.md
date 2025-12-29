@@ -20,7 +20,7 @@ I am an AI/ML enthusiast with a passion for learning and exploring new technolog
 
 
 
-## 🔗 Contact Information
+## Contact Information
 
 - 📫 How to reach me: [aghamohammadi1994@gmail.com](mailto:aghamohammadi1994@gmail.com)
 
