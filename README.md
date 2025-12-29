@@ -16,7 +16,7 @@ I am an AI/ML enthusiast with a passion for learning and exploring new technolog
 
 👨🏻‍💻 Deep Learning model deployments
 
-🧑🏽‍💻 and few more.
+👨🏻‍💻 and few more.
 
 
 
@@ -25,23 +25,6 @@ I am an AI/ML enthusiast with a passion for learning and exploring new technolog
 - 📫 How to reach me: [aghamohammadi1994@gmail.com](mailto:aghamohammadi1994@gmail.com)
 
 - ⚡ Fun fact: I adventures, and I am always eager to learn and improve.
-
-
-<!--
-**aghamohammadi94/aghamohammadi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 <p align="center">
